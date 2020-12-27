@@ -1,7 +1,7 @@
 {
-  "name": "bookingapp-merngraphql",
+  "name": "mern-boilerplate",
   "version": "1.0.0",
-  "description": "booking app build with the mern stack with graphql",
+  "description": "development boilerplate for a mern application",
   "main": "index.js",
   "scripts": {
     "server": "npm start --prefix server",

@@ -1,6 +1,6 @@
-# This is a booking application built with the MERN stack + GraphQL
+# This is a development boilerplate for a MERN application
 
-## Want to use this project?
+## To use this boilerplate
 
 1. Clone or download this repo.
 2. cd to folder and run npm install
